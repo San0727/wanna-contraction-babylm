@@ -1,0 +1,201 @@
+NUM,SET,FREQUENCY,EMBEDDED VERB,Wh-WORD,GRAMMATICALITY,SENTENCE
+1,1,Low,lead,Who,Grammatical,Who do you wanna lead to the station tomorrow?
+2,1,Low,return,Who,Ungrammatical,Who do you wanna return to the station tomorrow?
+3,2,Low,lead,Who,Grammatical,Who do you wanna lead to the airport tomorrow?
+4,2,Low,return,Who,Ungrammatical,Who do you wanna return to the airport tomorrow?
+5,3,Low,lead,Who,Grammatical,Who do you wanna lead to the library tomorrow?
+6,3,Low,return,Who,Ungrammatical,Who do you wanna return to the library tomorrow?
+7,4,Low,lead,Who,Grammatical,Who do you wanna lead to the museum tomorrow?
+8,4,Low,return,Who,Ungrammatical,Who do you wanna return to the museum tomorrow?
+9,5,Low,lead,Who,Grammatical,Who do you wanna lead to the hospital tomorrow?
+10,5,Low,return,Who,Ungrammatical,Who do you wanna return to the hospital tomorrow?
+11,6,Low,lead,Who,Grammatical,Who do you wanna lead to the university tomorrow?
+12,6,Low,return,Who,Ungrammatical,Who do you wanna return to the university tomorrow?
+13,7,Low,lead,Who,Grammatical,Who do you wanna lead to the restaurant tomorrow?
+14,7,Low,return,Who,Ungrammatical,Who do you wanna return to the restaurant tomorrow?
+15,8,Low,lead,Who,Grammatical,Who do you wanna lead to the zoo tomorrow?
+16,8,Low,return,Who,Ungrammatical,Who do you wanna return to the zoo tomorrow?
+17,9,Low,lead,Who,Grammatical,Who do you wanna lead to the hotel tomorrow?
+18,9,Low,return,Who,Ungrammatical,Who do you wanna return to the hotel tomorrow?
+19,10,Low,lead,Who,Grammatical,Who do you wanna lead to the office tomorrow?
+20,10,Low,return,Who,Ungrammatical,Who do you wanna return to the office tomorrow?
+21,11,Low,lead,Who,Grammatical,Who do you wanna lead to the school tomorrow?
+22,11,Low,return,Who,Ungrammatical,Who do you wanna return to the school tomorrow?
+23,12,Low,lead,Who,Grammatical,Who do you wanna lead to the bank tomorrow?
+24,12,Low,return,Who,Ungrammatical,Who do you wanna return to the bank tomorrow?
+25,13,Low,lead,Who,Grammatical,Who do you wanna lead to the beach tomorrow?
+26,13,Low,return,Who,Ungrammatical,Who do you wanna return to the beach tomorrow?
+27,14,Low,lead,Who,Grammatical,Who do you wanna lead to the concert tomorrow?
+28,14,Low,return,Who,Ungrammatical,Who do you wanna return to the concert tomorrow?
+29,15,Low,lead,Who,Grammatical,Who do you wanna lead to the store tomorrow?
+30,15,Low,return,Who,Ungrammatical,Who do you wanna return to the store tomorrow?
+31,16,Low,lead,Who,Grammatical,Who do you wanna lead to the bus stop tomorrow?
+32,16,Low,return,Who,Ungrammatical,Who do you wanna return to the bus stop tomorrow?
+33,17,Low,lead,Who,Grammatical,Who do you wanna lead to the classroom tomorrow?
+34,17,Low,return,Who,Ungrammatical,Who do you wanna return to the classroom tomorrow?
+35,18,Low,lead,Who,Grammatical,Who do you wanna lead to the park tomorrow?
+36,18,Low,return,Who,Ungrammatical,Who do you wanna return to the park tomorrow?
+37,19,Low,lead,Who,Grammatical,Who do you wanna lead to the mall tomorrow?
+38,19,Low,return,Who,Ungrammatical,Who do you wanna return to the mall tomorrow?
+39,20,Low,lead,Who,Grammatical,Who do you wanna lead to the shop tomorrow?
+40,20,Low,return,Who,Ungrammatical,Who do you wanna return to the shop tomorrow?
+41,21,Low,lead,Who,Grammatical,Who do you wanna lead to the amusement park tomorrow?
+42,21,Low,return,Who,Ungrammatical,Who do you wanna return to the amusement park tomorrow?
+43,22,Low,lead,Who,Grammatical,Who do you wanna lead to the aquarium tomorrow?
+44,22,Low,return,Who,Ungrammatical,Who do you wanna return to the aquarium tomorrow?
+45,23,Low,lead,Who,Grammatical,Who do you wanna lead to the theater tomorrow?
+46,23,Low,return,Who,Ungrammatical,Who do you wanna return to the theater tomorrow?
+47,24,Low,lead,Who,Grammatical,Who do you wanna lead to the basement tomorrow?
+48,24,Low,return,Who,Ungrammatical,Who do you wanna return to the basement tomorrow?
+49,25,Low,lead,Who,Grammatical,Who do you wanna lead to the toy store tomorrow?
+50,25,Low,return,Who,Ungrammatical,Who do you wanna return to the toy store tomorrow?
+51,26,Low,lead,Who,Grammatical,Who do you wanna lead to the bookstore tomorrow?
+52,26,Low,return,Who,Ungrammatical,Who do you wanna return to the bookstore tomorrow?
+53,27,Low,lead,Who,Grammatical,Who do you wanna lead to the bakery tomorrow?
+54,27,Low,return,Who,Ungrammatical,Who do you wanna return to the bakery tomorrow?
+55,28,Low,lead,Who,Grammatical,Who do you wanna lead to the terminal tomorrow?
+56,28,Low,return,Who,Ungrammatical,Who do you wanna return to the terminal tomorrow?
+57,29,Low,lead,Who,Grammatical,Who do you wanna lead to the coffee shop tomorrow?
+58,29,Low,return,Who,Ungrammatical,Who do you wanna return to the coffee shop tomorrow?
+59,30,Low,lead,Who,Grammatical,Who do you wanna lead to the market tomorrow?
+60,30,Low,return,Who,Ungrammatical,Who do you wanna return to the market tomorrow?
+61,31,Low,lead,Who,Grammatical,Who do you wanna lead to the gallery tomorrow?
+62,31,Low,return,Who,Ungrammatical,Who do you wanna return to the gallery tomorrow?
+63,32,Low,lead,Who,Grammatical,Who do you wanna lead to the shopping mall tomorrow?
+64,32,Low,return,Who,Ungrammatical,Who do you wanna return to the shopping mall tomorrow?
+65,33,Low,lead,Who,Grammatical,Who do you wanna lead to the post office tomorrow?
+66,33,Low,return,Who,Ungrammatical,Who do you wanna return to the post office tomorrow?
+67,34,Low,lead,Who,Grammatical,Who do you wanna lead to the clinic tomorrow?
+68,34,Low,return,Who,Ungrammatical,Who do you wanna return to the clinic tomorrow?
+69,35,Low,lead,Who,Grammatical,Who do you wanna lead to the gym tomorrow?
+70,35,Low,return,Who,Ungrammatical,Who do you wanna return to the gym tomorrow?
+71,36,Low,lead,Who,Grammatical,Who do you wanna lead to the pool tomorrow?
+72,36,Low,return,Who,Ungrammatical,Who do you wanna return to the pool tomorrow?
+73,37,Low,lead,Who,Grammatical,Who do you wanna lead to the party tomorrow?
+74,37,Low,return,Who,Ungrammatical,Who do you wanna return to the party tomorrow?
+75,38,Low,lead,Who,Grammatical,Who do you wanna lead to the show tomorrow?
+76,38,Low,return,Who,Ungrammatical,Who do you wanna return to the show tomorrow?
+77,39,Low,lead,Who,Grammatical,Who do you wanna lead to the festival tomorrow?
+78,39,Low,return,Who,Ungrammatical,Who do you wanna return to the festival tomorrow?
+79,40,Low,lead,Who,Grammatical,Who do you wanna lead to the audition tomorrow?
+80,40,Low,return,Who,Ungrammatical,Who do you wanna return to the audition tomorrow?
+81,41,Low,lead,Who,Grammatical,Who do you wanna lead to the competition tomorrow?
+82,41,Low,return,Who,Ungrammatical,Who do you wanna return to the competition tomorrow?
+83,42,Low,lead,Who,Grammatical,Who do you wanna lead to the race tomorrow?
+84,42,Low,return,Who,Ungrammatical,Who do you wanna return to the race tomorrow?
+85,43,Low,lead,Who,Grammatical,Who do you wanna lead to the contest tomorrow?
+86,43,Low,return,Who,Ungrammatical,Who do you wanna return to the contest tomorrow?
+87,44,Low,lead,Who,Grammatical,Who do you wanna lead to the match tomorrow?
+88,44,Low,return,Who,Ungrammatical,Who do you wanna return to the match tomorrow?
+89,45,Low,lead,Who,Grammatical,Who do you wanna lead to the wedding tomorrow?
+90,45,Low,return,Who,Ungrammatical,Who do you wanna return to the wedding tomorrow?
+91,46,Low,lead,Who,Grammatical,Who do you wanna lead to the ceremony tomorrow?
+92,46,Low,return,Who,Ungrammatical,Who do you wanna return to the ceremony tomorrow?
+93,47,Low,lead,Who,Grammatical,Who do you wanna lead to the rally tomorrow?
+94,47,Low,return,Who,Ungrammatical,Who do you wanna return to the rally tomorrow?
+95,48,Low,lead,Who,Grammatical,Who do you wanna lead to the seminar tomorrow?
+96,48,Low,return,Who,Ungrammatical,Who do you wanna return to the seminar tomorrow?
+97,49,Low,lead,Who,Grammatical,Who do you wanna lead to the conference tomorrow?
+98,49,Low,return,Who,Ungrammatical,Who do you wanna return to the conference tomorrow?
+99,50,Low,lead,Who,Grammatical,Who do you wanna lead to the meeting tomorrow?
+100,50,Low,return,Who,Ungrammatical,Who do you wanna return to the meeting tomorrow?
+101,51,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the meeting tomorrow?
+102,51,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the meeting tomorrow?
+103,52,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the lecture tomorrow?
+104,52,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the lecture tomorrow?
+105,53,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the show tomorrow?
+106,53,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the show tomorrow?
+107,54,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the contest tomorrow?
+108,54,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the contest tomorrow?
+109,55,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the ceremony tomorrow?
+110,55,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the ceremony tomorrow?
+111,56,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the conference tomorrow?
+112,56,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the conference tomorrow?
+113,57,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the race tomorrow?
+114,57,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the race tomorrow?
+115,58,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after school tomorrow?
+116,58,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after school tomorrow?
+117,59,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after breakfast tomorrow?
+118,59,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after breakfast tomorrow?
+119,60,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after lunch tomorrow?
+120,60,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after lunch tomorrow?
+121,61,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after dinner tomorrow?
+122,61,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after dinner tomorrow?
+123,62,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the class tomorrow?
+124,62,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the class tomorrow?
+125,63,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the interview tomorrow?
+126,63,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the interview tomorrow?
+127,64,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the game tomorrow?
+128,64,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the game tomorrow?
+129,65,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the wedding tomorrow?
+130,65,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the wedding tomorrow?
+131,66,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the exam tomorrow?
+132,66,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the exam tomorrow?
+133,67,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the rehearsal tomorrow?
+134,67,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the rehearsal tomorrow?
+135,68,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the performance tomorrow?
+136,68,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the performance tomorrow?
+137,69,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the audition tomorrow?
+138,69,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the audition tomorrow?
+139,70,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the festival tomorrow?
+140,70,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the festival tomorrow?
+141,71,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the workshop tomorrow?
+142,71,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the workshop tomorrow?
+143,72,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the appointment tomorrow?
+144,72,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the appointment tomorrow?
+145,73,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the parade tomorrow?
+146,73,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the parade tomorrow?
+147,74,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the match tomorrow?
+148,74,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the match tomorrow?
+149,75,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the event tomorrow?
+150,75,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the event tomorrow?
+151,76,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the test tomorrow?
+152,76,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the test tomorrow?
+153,77,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the discussion tomorrow?
+154,77,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the discussion tomorrow?
+155,78,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the session tomorrow?
+156,78,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the session tomorrow?
+157,79,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the musical tomorrow?
+158,79,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the musical tomorrow?
+159,80,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the concert tomorrow?
+160,80,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the concert tomorrow?
+161,81,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the party tomorrow?
+162,81,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the party tomorrow?
+163,82,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the trip tomorrow?
+164,82,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the trip tomorrow?
+165,83,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the break tomorrow?
+166,83,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the break tomorrow?
+167,84,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the tour tomorrow?
+168,84,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the tour tomorrow?
+169,85,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the speech tomorrow?
+170,85,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the speech tomorrow?
+171,86,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the announcement tomorrow?
+172,86,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the announcement tomorrow?
+173,87,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the briefing tomorrow?
+174,87,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the briefing tomorrow?
+175,88,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after camping tomorrow?
+176,88,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after camping tomorrow?
+177,89,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after dancing tomorrow?
+178,89,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after dancing tomorrow?
+179,90,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after swimming tomorrow?
+180,90,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after swimming tomorrow?
+181,91,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after biking tomorrow?
+182,91,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after biking tomorrow?
+183,92,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after skating tomorrow?
+184,92,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after skating tomorrow?
+185,93,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after hiking tomorrow?
+186,93,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after hiking tomorrow?
+187,94,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after work tomorrow? 
+188,94,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after work tomorrow?
+189,95,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after training tomorrow?
+190,95,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after training tomorrow?
+191,96,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the workout tomorrow?
+192,96,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the workout tomorrow?
+193,97,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after cleaning tomorrow?
+194,97,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after cleaning tomorrow?
+195,98,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the presentation tomorrow?
+196,98,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the presentation tomorrow?
+197,99,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the shift tomorrow?
+198,99,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the shift tomorrow?
+199,100,Low,congratulate,Who,Grammatical,Who do you wanna congratulate after the debate tomorrow?
+200,100,Low,apologize,Who,Ungrammatical,Who do you wanna apologize after the debate tomorrow?

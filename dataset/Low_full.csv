@@ -1,0 +1,201 @@
+TYPE,SENTENCE
+Object-Extraction,Who do you wanna lead to the station tomorrow?
+Subject-Extraction,Who do you wanna return to the station tomorrow?
+Object-Extraction,Who do you wanna lead to the airport tomorrow?
+Subject-Extraction,Who do you wanna return to the airport tomorrow?
+Object-Extraction,Who do you wanna lead to the library tomorrow?
+Subject-Extraction,Who do you wanna return to the library tomorrow?
+Object-Extraction,Who do you wanna lead to the museum tomorrow?
+Subject-Extraction,Who do you wanna return to the museum tomorrow?
+Object-Extraction,Who do you wanna lead to the hospital tomorrow?
+Subject-Extraction,Who do you wanna return to the hospital tomorrow?
+Object-Extraction,Who do you wanna lead to the university tomorrow?
+Subject-Extraction,Who do you wanna return to the university tomorrow?
+Object-Extraction,Who do you wanna lead to the restaurant tomorrow?
+Subject-Extraction,Who do you wanna return to the restaurant tomorrow?
+Object-Extraction,Who do you wanna lead to the zoo tomorrow?
+Subject-Extraction,Who do you wanna return to the zoo tomorrow?
+Object-Extraction,Who do you wanna lead to the hotel tomorrow?
+Subject-Extraction,Who do you wanna return to the hotel tomorrow?
+Object-Extraction,Who do you wanna lead to the office tomorrow?
+Subject-Extraction,Who do you wanna return to the office tomorrow?
+Object-Extraction,Who do you wanna lead to the school tomorrow?
+Subject-Extraction,Who do you wanna return to the school tomorrow?
+Object-Extraction,Who do you wanna lead to the bank tomorrow?
+Subject-Extraction,Who do you wanna return to the bank tomorrow?
+Object-Extraction,Who do you wanna lead to the beach tomorrow?
+Subject-Extraction,Who do you wanna return to the beach tomorrow?
+Object-Extraction,Who do you wanna lead to the concert tomorrow?
+Subject-Extraction,Who do you wanna return to the concert tomorrow?
+Object-Extraction,Who do you wanna lead to the store tomorrow?
+Subject-Extraction,Who do you wanna return to the store tomorrow?
+Object-Extraction,Who do you wanna lead to the bus stop tomorrow?
+Subject-Extraction,Who do you wanna return to the bus stop tomorrow?
+Object-Extraction,Who do you wanna lead to the classroom tomorrow?
+Subject-Extraction,Who do you wanna return to the classroom tomorrow?
+Object-Extraction,Who do you wanna lead to the park tomorrow?
+Subject-Extraction,Who do you wanna return to the park tomorrow?
+Object-Extraction,Who do you wanna lead to the mall tomorrow?
+Subject-Extraction,Who do you wanna return to the mall tomorrow?
+Object-Extraction,Who do you wanna lead to the shop tomorrow?
+Subject-Extraction,Who do you wanna return to the shop tomorrow?
+Object-Extraction,Who do you wanna lead to the amusement park tomorrow?
+Subject-Extraction,Who do you wanna return to the amusement park tomorrow?
+Object-Extraction,Who do you wanna lead to the aquarium tomorrow?
+Subject-Extraction,Who do you wanna return to the aquarium tomorrow?
+Object-Extraction,Who do you wanna lead to the theater tomorrow?
+Subject-Extraction,Who do you wanna return to the theater tomorrow?
+Object-Extraction,Who do you wanna lead to the basement tomorrow?
+Subject-Extraction,Who do you wanna return to the basement tomorrow?
+Object-Extraction,Who do you wanna lead to the toy store tomorrow?
+Subject-Extraction,Who do you wanna return to the toy store tomorrow?
+Object-Extraction,Who do you wanna lead to the bookstore tomorrow?
+Subject-Extraction,Who do you wanna return to the bookstore tomorrow?
+Object-Extraction,Who do you wanna lead to the bakery tomorrow?
+Subject-Extraction,Who do you wanna return to the bakery tomorrow?
+Object-Extraction,Who do you wanna lead to the terminal tomorrow?
+Subject-Extraction,Who do you wanna return to the terminal tomorrow?
+Object-Extraction,Who do you wanna lead to the coffee shop tomorrow?
+Subject-Extraction,Who do you wanna return to the coffee shop tomorrow?
+Object-Extraction,Who do you wanna lead to the market tomorrow?
+Subject-Extraction,Who do you wanna return to the market tomorrow?
+Object-Extraction,Who do you wanna lead to the gallery tomorrow?
+Subject-Extraction,Who do you wanna return to the gallery tomorrow?
+Object-Extraction,Who do you wanna lead to the shopping mall tomorrow?
+Subject-Extraction,Who do you wanna return to the shopping mall tomorrow?
+Object-Extraction,Who do you wanna lead to the post office tomorrow?
+Subject-Extraction,Who do you wanna return to the post office tomorrow?
+Object-Extraction,Who do you wanna lead to the clinic tomorrow?
+Subject-Extraction,Who do you wanna return to the clinic tomorrow?
+Object-Extraction,Who do you wanna lead to the gym tomorrow?
+Subject-Extraction,Who do you wanna return to the gym tomorrow?
+Object-Extraction,Who do you wanna lead to the pool tomorrow?
+Subject-Extraction,Who do you wanna return to the pool tomorrow?
+Object-Extraction,Who do you wanna lead to the party tomorrow?
+Subject-Extraction,Who do you wanna return to the party tomorrow?
+Object-Extraction,Who do you wanna lead to the show tomorrow?
+Subject-Extraction,Who do you wanna return to the show tomorrow?
+Object-Extraction,Who do you wanna lead to the festival tomorrow?
+Subject-Extraction,Who do you wanna return to the festival tomorrow?
+Object-Extraction,Who do you wanna lead to the audition tomorrow?
+Subject-Extraction,Who do you wanna return to the audition tomorrow?
+Object-Extraction,Who do you wanna lead to the competition tomorrow?
+Subject-Extraction,Who do you wanna return to the competition tomorrow?
+Object-Extraction,Who do you wanna lead to the race tomorrow?
+Subject-Extraction,Who do you wanna return to the race tomorrow?
+Object-Extraction,Who do you wanna lead to the contest tomorrow?
+Subject-Extraction,Who do you wanna return to the contest tomorrow?
+Object-Extraction,Who do you wanna lead to the match tomorrow?
+Subject-Extraction,Who do you wanna return to the match tomorrow?
+Object-Extraction,Who do you wanna lead to the wedding tomorrow?
+Subject-Extraction,Who do you wanna return to the wedding tomorrow?
+Object-Extraction,Who do you wanna lead to the ceremony tomorrow?
+Subject-Extraction,Who do you wanna return to the ceremony tomorrow?
+Object-Extraction,Who do you wanna lead to the rally tomorrow?
+Subject-Extraction,Who do you wanna return to the rally tomorrow?
+Object-Extraction,Who do you wanna lead to the seminar tomorrow?
+Subject-Extraction,Who do you wanna return to the seminar tomorrow?
+Object-Extraction,Who do you wanna lead to the conference tomorrow?
+Subject-Extraction,Who do you wanna return to the conference tomorrow?
+Object-Extraction,Who do you wanna lead to the meeting tomorrow?
+Subject-Extraction,Who do you wanna return to the meeting tomorrow?
+Object-Extraction,Who do you wanna congratulate after the meeting tomorrow?
+Subject-Extraction,Who do you wanna apologize after the meeting tomorrow?
+Object-Extraction,Who do you wanna congratulate after the lecture tomorrow?
+Subject-Extraction,Who do you wanna apologize after the lecture tomorrow?
+Object-Extraction,Who do you wanna congratulate after the show tomorrow?
+Subject-Extraction,Who do you wanna apologize after the show tomorrow?
+Object-Extraction,Who do you wanna congratulate after the contest tomorrow?
+Subject-Extraction,Who do you wanna apologize after the contest tomorrow?
+Object-Extraction,Who do you wanna congratulate after the ceremony tomorrow?
+Subject-Extraction,Who do you wanna apologize after the ceremony tomorrow?
+Object-Extraction,Who do you wanna congratulate after the conference tomorrow?
+Subject-Extraction,Who do you wanna apologize after the conference tomorrow?
+Object-Extraction,Who do you wanna congratulate after the race tomorrow?
+Subject-Extraction,Who do you wanna apologize after the race tomorrow?
+Object-Extraction,Who do you wanna congratulate after school tomorrow?
+Subject-Extraction,Who do you wanna apologize after school tomorrow?
+Object-Extraction,Who do you wanna congratulate after breakfast tomorrow?
+Subject-Extraction,Who do you wanna apologize after breakfast tomorrow?
+Object-Extraction,Who do you wanna congratulate after lunch tomorrow?
+Subject-Extraction,Who do you wanna apologize after lunch tomorrow?
+Object-Extraction,Who do you wanna congratulate after dinner tomorrow?
+Subject-Extraction,Who do you wanna apologize after dinner tomorrow?
+Object-Extraction,Who do you wanna congratulate after the class tomorrow?
+Subject-Extraction,Who do you wanna apologize after the class tomorrow?
+Object-Extraction,Who do you wanna congratulate after the interview tomorrow?
+Subject-Extraction,Who do you wanna apologize after the interview tomorrow?
+Object-Extraction,Who do you wanna congratulate after the game tomorrow?
+Subject-Extraction,Who do you wanna apologize after the game tomorrow?
+Object-Extraction,Who do you wanna congratulate after the wedding tomorrow?
+Subject-Extraction,Who do you wanna apologize after the wedding tomorrow?
+Object-Extraction,Who do you wanna congratulate after the exam tomorrow?
+Subject-Extraction,Who do you wanna apologize after the exam tomorrow?
+Object-Extraction,Who do you wanna congratulate after the rehearsal tomorrow?
+Subject-Extraction,Who do you wanna apologize after the rehearsal tomorrow?
+Object-Extraction,Who do you wanna congratulate after the performance tomorrow?
+Subject-Extraction,Who do you wanna apologize after the performance tomorrow?
+Object-Extraction,Who do you wanna congratulate after the audition tomorrow?
+Subject-Extraction,Who do you wanna apologize after the audition tomorrow?
+Object-Extraction,Who do you wanna congratulate after the festival tomorrow?
+Subject-Extraction,Who do you wanna apologize after the festival tomorrow?
+Object-Extraction,Who do you wanna congratulate after the workshop tomorrow?
+Subject-Extraction,Who do you wanna apologize after the workshop tomorrow?
+Object-Extraction,Who do you wanna congratulate after the appointment tomorrow?
+Subject-Extraction,Who do you wanna apologize after the appointment tomorrow?
+Object-Extraction,Who do you wanna congratulate after the parade tomorrow?
+Subject-Extraction,Who do you wanna apologize after the parade tomorrow?
+Object-Extraction,Who do you wanna congratulate after the match tomorrow?
+Subject-Extraction,Who do you wanna apologize after the match tomorrow?
+Object-Extraction,Who do you wanna congratulate after the event tomorrow?
+Subject-Extraction,Who do you wanna apologize after the event tomorrow?
+Object-Extraction,Who do you wanna congratulate after the test tomorrow?
+Subject-Extraction,Who do you wanna apologize after the test tomorrow?
+Object-Extraction,Who do you wanna congratulate after the discussion tomorrow?
+Subject-Extraction,Who do you wanna apologize after the discussion tomorrow?
+Object-Extraction,Who do you wanna congratulate after the session tomorrow?
+Subject-Extraction,Who do you wanna apologize after the session tomorrow?
+Object-Extraction,Who do you wanna congratulate after the musical tomorrow?
+Subject-Extraction,Who do you wanna apologize after the musical tomorrow?
+Object-Extraction,Who do you wanna congratulate after the concert tomorrow?
+Subject-Extraction,Who do you wanna apologize after the concert tomorrow?
+Object-Extraction,Who do you wanna congratulate after the party tomorrow?
+Subject-Extraction,Who do you wanna apologize after the party tomorrow?
+Object-Extraction,Who do you wanna congratulate after the trip tomorrow?
+Subject-Extraction,Who do you wanna apologize after the trip tomorrow?
+Object-Extraction,Who do you wanna congratulate after the break tomorrow?
+Subject-Extraction,Who do you wanna apologize after the break tomorrow?
+Object-Extraction,Who do you wanna congratulate after the tour tomorrow?
+Subject-Extraction,Who do you wanna apologize after the tour tomorrow?
+Object-Extraction,Who do you wanna congratulate after the speech tomorrow?
+Subject-Extraction,Who do you wanna apologize after the speech tomorrow?
+Object-Extraction,Who do you wanna congratulate after the announcement tomorrow?
+Subject-Extraction,Who do you wanna apologize after the announcement tomorrow?
+Object-Extraction,Who do you wanna congratulate after the briefing tomorrow?
+Subject-Extraction,Who do you wanna apologize after the briefing tomorrow?
+Object-Extraction,Who do you wanna congratulate after camping tomorrow?
+Subject-Extraction,Who do you wanna apologize after camping tomorrow?
+Object-Extraction,Who do you wanna congratulate after dancing tomorrow?
+Subject-Extraction,Who do you wanna apologize after dancing tomorrow?
+Object-Extraction,Who do you wanna congratulate after swimming tomorrow?
+Subject-Extraction,Who do you wanna apologize after swimming tomorrow?
+Object-Extraction,Who do you wanna congratulate after biking tomorrow?
+Subject-Extraction,Who do you wanna apologize after biking tomorrow?
+Object-Extraction,Who do you wanna congratulate after skating tomorrow?
+Subject-Extraction,Who do you wanna apologize after skating tomorrow?
+Object-Extraction,Who do you wanna congratulate after hiking tomorrow?
+Subject-Extraction,Who do you wanna apologize after hiking tomorrow?
+Object-Extraction,Who do you wanna congratulate after work tomorrow? 
+Subject-Extraction,Who do you wanna apologize after work tomorrow?
+Object-Extraction,Who do you wanna congratulate after training tomorrow?
+Subject-Extraction,Who do you wanna apologize after training tomorrow?
+Object-Extraction,Who do you wanna congratulate after the workout tomorrow?
+Subject-Extraction,Who do you wanna apologize after the workout tomorrow?
+Object-Extraction,Who do you wanna congratulate after cleaning tomorrow?
+Subject-Extraction,Who do you wanna apologize after cleaning tomorrow?
+Object-Extraction,Who do you wanna congratulate after the presentation tomorrow?
+Subject-Extraction,Who do you wanna apologize after the presentation tomorrow?
+Object-Extraction,Who do you wanna congratulate after the shift tomorrow?
+Subject-Extraction,Who do you wanna apologize after the shift tomorrow?
+Object-Extraction,Who do you wanna congratulate after the debate tomorrow?
+Subject-Extraction,Who do you wanna apologize after the debate tomorrow?
