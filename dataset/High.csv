@@ -1,0 +1,201 @@
+NUM,SET,FREQUENCY,EMBEDDED VERB,Wh-WORD,GRAMMATICALITY,SENTENCE
+1,1,High,take,Who,Grammatical,Who do you wanna take to the station tomorrow?
+2,1,High,go,Who,Ungrammatical,Who do you wanna go to the station tomorrow?
+3,2,High,take,Who,Grammatical,Who do you wanna take to the airport tomorrow?
+4,2,High,go,Who,Ungrammatical,Who do you wanna go to the airport tomorrow?
+5,3,High,take,Who,Grammatical,Who do you wanna take to the library tomorrow?
+6,3,High,go,Who,Ungrammatical,Who do you wanna go to the library tomorrow?
+7,4,High,take,Who,Grammatical,Who do you wanna take to the museum tomorrow?
+8,4,High,go,Who,Ungrammatical,Who do you wanna go to the museum tomorrow?
+9,5,High,take,Who,Grammatical,Who do you wanna take to the hospital tomorrow?
+10,5,High,go,Who,Ungrammatical,Who do you wanna go to the hospital tomorrow?
+11,6,High,take,Who,Grammatical,Who do you wanna take to the university tomorrow?
+12,6,High,go,Who,Ungrammatical,Who do you wanna go to the university tomorrow?
+13,7,High,take,Who,Grammatical,Who do you wanna take to the restaurant tomorrow?
+14,7,High,go,Who,Ungrammatical,Who do you wanna go to the restaurant tomorrow?
+15,8,High,take,Who,Grammatical,Who do you wanna take to the zoo tomorrow?
+16,8,High,go,Who,Ungrammatical,Who do you wanna go to the zoo tomorrow?
+17,9,High,take,Who,Grammatical,Who do you wanna take to the hotel tomorrow?
+18,9,High,go,Who,Ungrammatical,Who do you wanna go to the hotel tomorrow?
+19,10,High,take,Who,Grammatical,Who do you wanna take to the office tomorrow?
+20,10,High,go,Who,Ungrammatical,Who do you wanna go to the office tomorrow?
+21,11,High,take,Who,Grammatical,Who do you wanna take to the school tomorrow?
+22,11,High,go,Who,Ungrammatical,Who do you wanna go to the school tomorrow?
+23,12,High,take,Who,Grammatical,Who do you wanna take to the bank tomorrow?
+24,12,High,go,Who,Ungrammatical,Who do you wanna go to the bank tomorrow?
+25,13,High,take,Who,Grammatical,Who do you wanna take to the beach tomorrow?
+26,13,High,go,Who,Ungrammatical,Who do you wanna go to the beach tomorrow?
+27,14,High,take,Who,Grammatical,Who do you wanna take to the concert tomorrow?
+28,14,High,go,Who,Ungrammatical,Who do you wanna go to the concert tomorrow?
+29,15,High,take,Who,Grammatical,Who do you wanna take to the store tomorrow?
+30,15,High,go,Who,Ungrammatical,Who do you wanna go to the store tomorrow?
+31,16,High,take,Who,Grammatical,Who do you wanna take to the bus stop tomorrow?
+32,16,High,go,Who,Ungrammatical,Who do you wanna go to the bus stop tomorrow?
+33,17,High,take,Who,Grammatical,Who do you wanna take to the classroom tomorrow?
+34,17,High,go,Who,Ungrammatical,Who do you wanna go to the classroom tomorrow?
+35,18,High,take,Who,Grammatical,Who do you wanna take to the park tomorrow?
+36,18,High,go,Who,Ungrammatical,Who do you wanna go to the park tomorrow?
+37,19,High,take,Who,Grammatical,Who do you wanna take to the mall tomorrow?
+38,19,High,go,Who,Ungrammatical,Who do you wanna go to the mall tomorrow?
+39,20,High,take,Who,Grammatical,Who do you wanna take to the shop tomorrow?
+40,20,High,go,Who,Ungrammatical,Who do you wanna go to the shop tomorrow?
+41,21,High,take,Who,Grammatical,Who do you wanna take to the amusement park tomorrow?
+42,21,High,go,Who,Ungrammatical,Who do you wanna go to the amusement park tomorrow?
+43,22,High,take,Who,Grammatical,Who do you wanna take to the aquarium tomorrow?
+44,22,High,go,Who,Ungrammatical,Who do you wanna go to the aquarium tomorrow?
+45,23,High,take,Who,Grammatical,Who do you wanna take to the theater tomorrow?
+46,23,High,go,Who,Ungrammatical,Who do you wanna go to the theater tomorrow?
+47,24,High,take,Who,Grammatical,Who do you wanna take to the basement tomorrow?
+48,24,High,go,Who,Ungrammatical,Who do you wanna go to the basement tomorrow?
+49,25,High,take,Who,Grammatical,Who do you wanna take to the toy store tomorrow?
+50,25,High,go,Who,Ungrammatical,Who do you wanna go to the toy store tomorrow?
+51,26,High,take,Who,Grammatical,Who do you wanna take to the bookstore tomorrow?
+52,26,High,go,Who,Ungrammatical,Who do you wanna go to the bookstore tomorrow?
+53,27,High,take,Who,Grammatical,Who do you wanna take to the bakery tomorrow?
+54,27,High,go,Who,Ungrammatical,Who do you wanna go to the bakery tomorrow?
+55,28,High,take,Who,Grammatical,Who do you wanna take to the terminal tomorrow?
+56,28,High,go,Who,Ungrammatical,Who do you wanna go to the terminal tomorrow?
+57,29,High,take,Who,Grammatical,Who do you wanna take to the coffee shop tomorrow?
+58,29,High,go,Who,Ungrammatical,Who do you wanna go to the coffee shop tomorrow?
+59,30,High,take,Who,Grammatical,Who do you wanna take to the market tomorrow?
+60,30,High,go,Who,Ungrammatical,Who do you wanna go to the market tomorrow?
+61,31,High,take,Who,Grammatical,Who do you wanna take to the gallery tomorrow?
+62,31,High,go,Who,Ungrammatical,Who do you wanna go to the gallery tomorrow?
+63,32,High,take,Who,Grammatical,Who do you wanna take to the shopping mall tomorrow?
+64,32,High,go,Who,Ungrammatical,Who do you wanna go to the shopping mall tomorrow?
+65,33,High,take,Who,Grammatical,Who do you wanna take to the post office tomorrow?
+66,33,High,go,Who,Ungrammatical,Who do you wanna go to the post office tomorrow?
+67,34,High,take,Who,Grammatical,Who do you wanna take to the clinic tomorrow?
+68,34,High,go,Who,Ungrammatical,Who do you wanna go to the clinic tomorrow?
+69,35,High,take,Who,Grammatical,Who do you wanna take to the gym tomorrow?
+70,35,High,go,Who,Ungrammatical,Who do you wanna go to the gym tomorrow?
+71,36,High,take,Who,Grammatical,Who do you wanna take to the pool tomorrow?
+72,36,High,go,Who,Ungrammatical,Who do you wanna go to the pool tomorrow?
+73,37,High,take,Who,Grammatical,Who do you wanna take to the party tomorrow?
+74,37,High,go,Who,Ungrammatical,Who do you wanna go to the party tomorrow?
+75,38,High,take,Who,Grammatical,Who do you wanna take to the show tomorrow?
+76,38,High,go,Who,Ungrammatical,Who do you wanna go to the show tomorrow?
+77,39,High,take,Who,Grammatical,Who do you wanna take to the festival tomorrow?
+78,39,High,go,Who,Ungrammatical,Who do you wanna go to the festival tomorrow?
+79,40,High,take,Who,Grammatical,Who do you wanna take to the audition tomorrow?
+80,40,High,go,Who,Ungrammatical,Who do you wanna go to the audition tomorrow?
+81,41,High,take,Who,Grammatical,Who do you wanna take to the competition tomorrow?
+82,41,High,go,Who,Ungrammatical,Who do you wanna go to the competition tomorrow?
+83,42,High,take,Who,Grammatical,Who do you wanna take to the race tomorrow?
+84,42,High,go,Who,Ungrammatical,Who do you wanna go to the race tomorrow?
+85,43,High,take,Who,Grammatical,Who do you wanna take to the contest tomorrow?
+86,43,High,go,Who,Ungrammatical,Who do you wanna go to the contest tomorrow?
+87,44,High,take,Who,Grammatical,Who do you wanna take to the match tomorrow?
+88,44,High,go,Who,Ungrammatical,Who do you wanna go to the match tomorrow?
+89,45,High,take,Who,Grammatical,Who do you wanna take to the wedding tomorrow?
+90,45,High,go,Who,Ungrammatical,Who do you wanna go to the wedding tomorrow?
+91,46,High,take,Who,Grammatical,Who do you wanna take to the ceremony tomorrow?
+92,46,High,go,Who,Ungrammatical,Who do you wanna go to the ceremony tomorrow?
+93,47,High,take,Who,Grammatical,Who do you wanna take to the rally tomorrow?
+94,47,High,go,Who,Ungrammatical,Who do you wanna go to the rally tomorrow?
+95,48,High,take,Who,Grammatical,Who do you wanna take to the seminar tomorrow?
+96,48,High,go,Who,Ungrammatical,Who do you wanna go to the seminar tomorrow?
+97,49,High,take,Who,Grammatical,Who do you wanna take to the conference tomorrow?
+98,49,High,go,Who,Ungrammatical,Who do you wanna go to the conference tomorrow?
+99,50,High,take,Who,Grammatical,Who do you wanna take to the meeting tomorrow?
+100,50,High,go,Who,Ungrammatical,Who do you wanna go to the meeting tomorrow?
+101,51,High,see,Who,Grammatical,Who do you wanna see after the meeting tomorrow?
+102,51,High,come,Who,Ungrammatical,Who do you wanna come after the meeting tomorrow?
+103,52,High,see,Who,Grammatical,Who do you wanna see after the lecture tomorrow?
+104,52,High,come,Who,Ungrammatical,Who do you wanna come after the lecture tomorrow?
+105,53,High,see,Who,Grammatical,Who do you wanna see after the show tomorrow?
+106,53,High,come,Who,Ungrammatical,Who do you wanna come after the show tomorrow?
+107,54,High,see,Who,Grammatical,Who do you wanna see after the contest tomorrow?
+108,54,High,come,Who,Ungrammatical,Who do you wanna come after the contest tomorrow?
+109,55,High,see,Who,Grammatical,Who do you wanna see after the ceremony tomorrow?
+110,55,High,come,Who,Ungrammatical,Who do you wanna come after the ceremony tomorrow?
+111,56,High,see,Who,Grammatical,Who do you wanna see after the conference tomorrow?
+112,56,High,come,Who,Ungrammatical,Who do you wanna come after the conference tomorrow?
+113,57,High,see,Who,Grammatical,Who do you wanna see after the race tomorrow?
+114,57,High,come,Who,Ungrammatical,Who do you wanna come after the race tomorrow?
+115,58,High,see,Who,Grammatical,Who do you wanna see after school tomorrow?
+116,58,High,come,Who,Ungrammatical,Who do you wanna come after school tomorrow?
+117,59,High,see,Who,Grammatical,Who do you wanna see after breakfast tomorrow?
+118,59,High,come,Who,Ungrammatical,Who do you wanna come after breakfast tomorrow?
+119,60,High,see,Who,Grammatical,Who do you wanna see after lunch tomorrow?
+120,60,High,come,Who,Ungrammatical,Who do you wanna come after lunch tomorrow?
+121,61,High,see,Who,Grammatical,Who do you wanna see after dinner tomorrow?
+122,61,High,come,Who,Ungrammatical,Who do you wanna come after dinner tomorrow?
+123,62,High,see,Who,Grammatical,Who do you wanna see after the class tomorrow?
+124,62,High,come,Who,Ungrammatical,Who do you wanna come after the class tomorrow?
+125,63,High,see,Who,Grammatical,Who do you wanna see after the interview tomorrow?
+126,63,High,come,Who,Ungrammatical,Who do you wanna come after the interview tomorrow?
+127,64,High,see,Who,Grammatical,Who do you wanna see after the game tomorrow?
+128,64,High,come,Who,Ungrammatical,Who do you wanna come after the game tomorrow?
+129,65,High,see,Who,Grammatical,Who do you wanna see after the wedding tomorrow?
+130,65,High,come,Who,Ungrammatical,Who do you wanna come after the wedding tomorrow?
+131,66,High,see,Who,Grammatical,Who do you wanna see after the exam tomorrow?
+132,66,High,come,Who,Ungrammatical,Who do you wanna come after the exam tomorrow?
+133,67,High,see,Who,Grammatical,Who do you wanna see after the rehearsal tomorrow?
+134,67,High,come,Who,Ungrammatical,Who do you wanna come after the rehearsal tomorrow?
+135,68,High,see,Who,Grammatical,Who do you wanna see after the performance tomorrow?
+136,68,High,come,Who,Ungrammatical,Who do you wanna come after the performance tomorrow?
+137,69,High,see,Who,Grammatical,Who do you wanna see after the audition tomorrow?
+138,69,High,come,Who,Ungrammatical,Who do you wanna come after the audition tomorrow?
+139,70,High,see,Who,Grammatical,Who do you wanna see after the festival tomorrow?
+140,70,High,come,Who,Ungrammatical,Who do you wanna come after the festival tomorrow?
+141,71,High,see,Who,Grammatical,Who do you wanna see after the workshop tomorrow?
+142,71,High,come,Who,Ungrammatical,Who do you wanna come after the workshop tomorrow?
+143,72,High,see,Who,Grammatical,Who do you wanna see after the appointment tomorrow?
+144,72,High,come,Who,Ungrammatical,Who do you wanna come after the appointment tomorrow?
+145,73,High,see,Who,Grammatical,Who do you wanna see after the parade tomorrow?
+146,73,High,come,Who,Ungrammatical,Who do you wanna come after the parade tomorrow?
+147,74,High,see,Who,Grammatical,Who do you wanna see after the match tomorrow?
+148,74,High,come,Who,Ungrammatical,Who do you wanna come after the match tomorrow?
+149,75,High,see,Who,Grammatical,Who do you wanna see after the event tomorrow?
+150,75,High,come,Who,Ungrammatical,Who do you wanna come after the event tomorrow?
+151,76,High,see,Who,Grammatical,Who do you wanna see after the test tomorrow?
+152,76,High,come,Who,Ungrammatical,Who do you wanna come after the test tomorrow?
+153,77,High,see,Who,Grammatical,Who do you wanna see after the discussion tomorrow?
+154,77,High,come,Who,Ungrammatical,Who do you wanna come after the discussion tomorrow?
+155,78,High,see,Who,Grammatical,Who do you wanna see after the session tomorrow?
+156,78,High,come,Who,Ungrammatical,Who do you wanna come after the session tomorrow?
+157,79,High,see,Who,Grammatical,Who do you wanna see after the musical tomorrow?
+158,79,High,come,Who,Ungrammatical,Who do you wanna come after the musical tomorrow?
+159,80,High,see,Who,Grammatical,Who do you wanna see after the concert tomorrow?
+160,80,High,come,Who,Ungrammatical,Who do you wanna come after the concert tomorrow?
+161,81,High,see,Who,Grammatical,Who do you wanna see after the party tomorrow?
+162,81,High,come,Who,Ungrammatical,Who do you wanna come after the party tomorrow?
+163,82,High,see,Who,Grammatical,Who do you wanna see after the trip tomorrow?
+164,82,High,come,Who,Ungrammatical,Who do you wanna come after the trip tomorrow?
+165,83,High,see,Who,Grammatical,Who do you wanna see after the break tomorrow?
+166,83,High,come,Who,Ungrammatical,Who do you wanna come after the break tomorrow?
+167,84,High,see,Who,Grammatical,Who do you wanna see after the tour tomorrow?
+168,84,High,come,Who,Ungrammatical,Who do you wanna come after the tour tomorrow?
+169,85,High,see,Who,Grammatical,Who do you wanna see after the speech tomorrow?
+170,85,High,come,Who,Ungrammatical,Who do you wanna come after the speech tomorrow?
+171,86,High,see,Who,Grammatical,Who do you wanna see after the announcement tomorrow?
+172,86,High,come,Who,Ungrammatical,Who do you wanna come after the announcement tomorrow?
+173,87,High,see,Who,Grammatical,Who do you wanna see after the briefing tomorrow?
+174,87,High,come,Who,Ungrammatical,Who do you wanna come after the briefing tomorrow?
+175,88,High,see,Who,Grammatical,Who do you wanna see after camping tomorrow?
+176,88,High,come,Who,Ungrammatical,Who do you wanna come after camping tomorrow?
+177,89,High,see,Who,Grammatical,Who do you wanna see after dancing tomorrow?
+178,89,High,come,Who,Ungrammatical,Who do you wanna come after dancing tomorrow?
+179,90,High,see,Who,Grammatical,Who do you wanna see after swimming tomorrow?
+180,90,High,come,Who,Ungrammatical,Who do you wanna come after swimming tomorrow?
+181,91,High,see,Who,Grammatical,Who do you wanna see after biking tomorrow?
+182,91,High,come,Who,Ungrammatical,Who do you wanna come after biking tomorrow?
+183,92,High,see,Who,Grammatical,Who do you wanna see after skating tomorrow?
+184,92,High,come,Who,Ungrammatical,Who do you wanna come after skating tomorrow?
+185,93,High,see,Who,Grammatical,Who do you wanna see after hiking tomorrow?
+186,93,High,come,Who,Ungrammatical,Who do you wanna come after hiking tomorrow?
+187,94,High,see,Who,Grammatical,Who do you wanna see after work tomorrow? 
+188,94,High,come,Who,Ungrammatical,Who do you wanna come after work tomorrow?
+189,95,High,see,Who,Grammatical,Who do you wanna see after training tomorrow?
+190,95,High,come,Who,Ungrammatical,Who do you wanna come after training tomorrow?
+191,96,High,see,Who,Grammatical,Who do you wanna see after the workout tomorrow?
+192,96,High,come,Who,Ungrammatical,Who do you wanna come after the workout tomorrow?
+193,97,High,see,Who,Grammatical,Who do you wanna see after cleaning tomorrow?
+194,97,High,come,Who,Ungrammatical,Who do you wanna come after cleaning tomorrow?
+195,98,High,see,Who,Grammatical,Who do you wanna see after the presentation tomorrow?
+196,98,High,come,Who,Ungrammatical,Who do you wanna come after the presentation tomorrow?
+197,99,High,see,Who,Grammatical,Who do you wanna see after the shift tomorrow?
+198,99,High,come,Who,Ungrammatical,Who do you wanna come after the shift tomorrow?
+199,100,High,see,Who,Grammatical,Who do you wanna see after the debate tomorrow?
+200,100,High,come,Who,Ungrammatical,Who do you wanna come after the debate tomorrow?
